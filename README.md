@@ -13,4 +13,4 @@ no sound
 relative
 ```
 > [!TIP]
-> as long you are looking for further help on configuring your emacs checkout this (russian guy)[https://youtu.be/81MdyDYqB-A] on youtube. 
+> as long you are looking for further help on configuring your emacs checkout this [russian guy](https://youtu.be/81MdyDYqB-A) on youtube. 
